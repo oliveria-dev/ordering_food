@@ -42,6 +42,7 @@
     "react-native-url-polyfill": "^2.0.0",
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
+    "use-debounce": "^10.0.5",
     "zustand": "^5.0.6"
   },
   "devDependencies": {
