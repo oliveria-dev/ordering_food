@@ -5,22 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25556cee-f7b2-4b2a-867e-358e6ab1b6f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Filter.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MenuCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SearchBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/seed.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/useAppwrite.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CartItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CustomHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/cart.store.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/search.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/appwrite.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/appwrite.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/cart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/cart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CartButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CartButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MenuCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MenuCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/type.d.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,7 +109,8 @@
       <workItem from="1751457152820" duration="85000" />
       <workItem from="1751457245830" duration="71000" />
       <workItem from="1751457324448" duration="1767000" />
-      <workItem from="1751481929876" duration="308000" />
+      <workItem from="1751481929876" duration="3696000" />
+      <workItem from="1751575494623" duration="3698000" />
     </task>
     <servers />
   </component>

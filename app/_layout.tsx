@@ -14,7 +14,7 @@ Sentry.init({
   sendDefaultPii: true,
 
   // Configure Session Replay
-  replaysSessionSampleRate: 0.1,
+  replaysSessionSampleRate: 1,
   replaysOnErrorSampleRate: 1,
   integrations: [Sentry.mobileReplayIntegration(), Sentry.feedbackIntegration()],
 
@@ -46,3 +46,5 @@ export default Sentry.wrap(function RootLayout() {
 
   return <Stack screenOptions={{ headerShown: false }} />;
 });
+
+Sentry.showFeedbackWidget();
