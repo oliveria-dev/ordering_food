@@ -148,5 +148,5 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
 <a href="https://jsm.dev/rn-food-jsm" target="_blank">
-   <img src="assets/readme/jsmpro.png" alt="Project Banner">
+   <img src="assets/readme/jsmpro.png" alt="Project">
 </a>
